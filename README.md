@@ -14,7 +14,7 @@
    
 2. Edit the `config.py` Put your token
 
-3. Open `main.py` and enjoy! :
+3. Open `autoMessage.py` and enjoy! :
 
 ## ⚠️ DISCLAIMER
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
